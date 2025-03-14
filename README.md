@@ -1,1 +1,1 @@
-# THIS IS CIRCLE FOR VeCtReX!
+# THIS IS CIRCLE FOR Vectrex in C
